@@ -5,7 +5,7 @@ color: #ffffff;
 }
 
 h1, h3 , .sidebar h3 {
-font-family: Arial !important;
+font-family: "Bradley Hand" !important;
 text-align: left;
 color: #ffffff;
 border-bottom: 1px solid #ffffff;
@@ -13,7 +13,7 @@ border-bottom: 1px solid #ffffff;
 
 /* Buttons */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: rgba(251, 151, 179, 0.21);
+background: rgba(163, 77, 255, 1);
 color: #ffffff;
 border: 1px solid #ffffff;
 text-shadow: none;
@@ -90,9 +90,9 @@ background: rgba(251, 151, 179, 0.21);
 border: 1px solid #ffffff;
 box-shadow: none;    
 }
- 
+
 .progress-bar {
-background: #A8D4D5;
+background: #7f4cb5;
 }
  
 .progress {
@@ -106,7 +106,7 @@ border: 1px solid #ffffff;
 .chat_light, .chat_dark {
 background: rgba(251, 151, 179, 0.21);
 font-size: 11px;
-color: #ffffff;
+color: #7f4cb5;
 }
 
 .chatContainer {
