@@ -1,0 +1,196 @@
+body {background: url("https://avante.biz/wp-content/uploads/Nebula-Desktop-Backgrounds/Nebula-Desktop-Backgrounds-017.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #ffffff;}
+
+.welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+color: #ffffff;
+}
+
+h1, h3 , .sidebar h3 {
+font-family: Arial !important;
+text-align: left;
+color: #ffffff;
+border-bottom: 1px solid #ffffff;
+}
+
+/* Buttons */
+input[type="button"], input[type="submit"], input[type="submit"]:hover {
+background: rgba(251, 151, 179, 0.21);
+color: #ffffff;
+border: 1px solid #ffffff;
+text-shadow: none;
+font-weight: bold;
+font-size: 14px;
+border-radius: 5px;
+}
+ 
+ 
+/* Links */
+ 
+.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+color: #ffffff;
+}
+ 
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+border-bottom: 1px solid #ffffff;
+color: #ffffff;
+}
+ 
+/* Topbar */
+ 
+.topbar {
+background: rgba(251, 151, 179, 0.21);
+border: 1px solid #ffffff;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+.badge {
+background: rgba(251, 151, 179, 0.21);
+border: 1px solid #ffffff;
+}
+ 
+/* Navigational Bar */
+ 
+.main {
+background: rgba(251, 151, 179, 0.21);
+border: 1px solid #ffffff;
+box-shadow: none;
+}
+ 
+.navbar {
+background: rgba(251, 151, 179, 0.21);
+border-bottom: 1px solid #ffffff;
+color: #ffffff;
+}
+ 
+.navbar-default .navbar-nav > li > a {
+color: #ffffff;
+}
+ 
+.navbar-default .navbar-nav li a:hover {
+color: #ffffff;
+background: #d1adff;
+border-left: 1px solid #ffffff;
+border-right: 1px solid #ffffff;
+} 
+ 
+ 
+ 
+/* Sidebar */
+ 
+.sidebar {
+background: rgba(251, 151, 179, 0.21);
+border: 0px solid #ffffff;
+border-bottom: 1px solid #ffffff;
+border-left: 1px solid #ffffff;
+color: #ffffff;
+}
+ 
+.col-md-3 .panel {
+background: rgba(251, 151, 179, 0.21);
+border: 1px solid #ffffff;
+box-shadow: none;    
+}
+ 
+.progress-bar {
+background: #A8D4D5;
+}
+ 
+.progress {
+background: #d1adff;
+border: 1px solid #ffffff;
+}
+ 
+ 
+/* Chat */
+ 
+.chat_light, .chat_dark {
+background: rgba(251, 151, 179, 0.21);
+font-size: 11px;
+color: #ffffff;
+}
+
+.chatContainer {
+border: 1px solid #000;
+}
+ 
+.userstolen {
+background: none;
+}
+
+.alert-danger {
+color: #ffffff;
+background: rgba(251, 151, 179, 0.21);
+border: 1px solid #ffffff;
+}
+
+.alert-success {
+color: #ffffff;
+background: rgba(251, 151, 179, 0.21);
+border: 1px solid #ffffff;
+}
+
+.breadcrumb {
+background:  rgba(251, 151, 179, 0.21);
+font-size: 13px;
+border: 1px solid #ffffff;
+}
+ 
+.breadcrumb>.active {
+color: #ffffff;
+}
+ 
+h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: "Carter One";
+color: #ffffff;
+}
+ 
+.col-md-9 {
+background: none;
+border: 0px solid #ffffff;
+}
+ 
+/* Tables */
+ 
+#lion_image {
+border-radius: 25px;
+overflow: hidden;
+border: 1px solid #ffffff;
+}
+ 
+.table, .item {
+border: 1px solid #ffffff;
+background: rgba(251, 151, 179, 0.21);
+border-collapse: separate;
+}
+
+.table .right, .table .right_odd {
+background: none;
+border: 0px solid #ffffff;
+}
+
+div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
+border: 0px solid #ffffff;
+background: rgba(251, 151, 179, 0.21);
+color: #ffffff;
+}
+
+.cave-grid, div .left, .mound-grid {
+border: 1px solid #ffffff;
+background: #d8d8d8;
+color: #ffffff;
+}
+
+.table .left {
+border: 1px solid #ffffff;
+background: rgba(251, 151, 179, 0.21);
+color: #ffffff;
+}
+
+.inner-table .right {
+background: rgba(251, 151, 179, 0.21);
+border: 1px solid #ffffff;
+border-left: none;
+}
+
+body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
+content: url('https://i.imgur.com/CqRnjLz.png')
