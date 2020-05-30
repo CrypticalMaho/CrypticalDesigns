@@ -1,8 +1,8 @@
-## Welcome to Maho's Lioden CSS Design Library!
+## Welcome to Cryptical's Lioden CSS Design Library!
 
 These designs are all free to use in your den!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
