@@ -16,6 +16,10 @@ textarea {
  color: #000000;
 }
 
+body {
+cursor: url(https://cdn.custom-cursor.com/packs/2036/pack2662.png);
+}
+
 /* Buttons */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
 background: rgba(163, 77, 255, 1);
