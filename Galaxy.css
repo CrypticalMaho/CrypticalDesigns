@@ -11,6 +11,11 @@ color: #ffffff;
 border-bottom: 1px solid #ffffff;
 }
 
+textarea {
+ text-align: left;
+ color: #000000;
+}
+
 /* Buttons */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
 background: rgba(163, 77, 255, 1);
