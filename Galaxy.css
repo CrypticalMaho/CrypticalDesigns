@@ -14,6 +14,7 @@ border-bottom: 1px solid #ffffff;
 textarea {
  text-align: left;
  color: #000000;
+ font-family: "Bradley Hand" !important;
 }
 
 body {
@@ -29,6 +30,7 @@ text-shadow: none;
 font-weight: bold;
 font-size: 14px;
 border-radius: 5px;
+font-family: "Bradley Hand";
 }
  
  
@@ -69,10 +71,12 @@ box-shadow: none;
 background: rgba(251, 151, 179, 0.21);
 border-bottom: 1px solid #ffffff;
 color: #ffffff;
+font-family: "Bradley Hand";
 }
  
 .navbar-default .navbar-nav > li > a {
 color: #ffffff;
+font-family: "Bradley Hand";
 }
  
 .navbar-default .navbar-nav li a:hover {
@@ -116,6 +120,7 @@ border: 1px solid #ffffff;
 background: rgba(251, 151, 179, 0.21);
 font-size: 11px;
 color: #7f4cb5;
+font-family: "Bradley Hand";
 }
 
 .chatContainer {
@@ -149,7 +154,7 @@ color: #ffffff;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-font-family: "Carter One";
+font-family: "Bradley Hand";
 color: #ffffff;
 }
  
