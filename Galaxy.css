@@ -113,9 +113,9 @@ border: 1px solid #ffffff;
 /* Chat */
  
 .chat_light, .chat_dark {
-background: rgba(251, 151, 179, 0.21);
+background: rgba(234, 199, 255, 0.21);
 font-size: 11px;
-color: #7f4cb5;
+color: #6f00b0;
 font-family: 'Bad Script', cursive;
 }
 
@@ -155,9 +155,14 @@ font-family: 'Bad Script', cursive;
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: 'Bad Script', cursive;
-color: #ffffff;
+color: #6f00b0;
 }
- 
+
+.txtChatInput {
+font-family: 'Bad Script', cursive;
+color: #6f00b0
+}
+
 .col-md-9 {
 background: none;
 border: 0px solid #ffffff;
