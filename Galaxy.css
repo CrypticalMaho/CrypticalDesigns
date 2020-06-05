@@ -19,6 +19,7 @@ textarea {
 }
 
 /* Buttons */
+
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
 background: rgba(163, 77, 255, 1);
 color: #ffffff;
@@ -29,8 +30,14 @@ font-size: 14px;
 border-radius: 5px;
 font-family: 'Bad Script', cursive;
 }
- 
- 
+
+a.button:hover {
+border-bottom: 1px solid #000000;
+color: #ffffff;
+background: rgba(111, 0, 176, 0.9);
+}
+
+
 /* Links */
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
@@ -42,6 +49,7 @@ font-family: 'Bad Script', cursive;
 border-bottom: 1px solid #ffffff;
 color: #ffffff;
 }
+
  
 /* Topbar */
  
@@ -111,7 +119,12 @@ border: 1px solid #ffffff;
  
  
 /* Chat */
- 
+
+#txtChatInput {
+font-family: 'Bad Script', cursive;
+color: #6f00b0
+}
+
 .chat_light, .chat_dark {
 background: rgba(234, 199, 255, 0.21);
 font-size: 11px;
@@ -156,11 +169,6 @@ font-family: 'Bad Script', cursive;
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: 'Bad Script', cursive;
 color: #6f00b0;
-}
-
-txtChatInput {
-font-family: 'Bad Script', cursive;
-color: #6f00b0
 }
 
 .col-md-9 {
